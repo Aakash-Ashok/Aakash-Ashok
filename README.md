@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akash Ashok</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 - 🔭 I’m currently working on [Parking Space finder](https://github.com/Aakash-Ashok/ParkingSpaceFinder.git)
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/akash ashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash ashok" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akash.ashok.2001?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash ashok" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr___ak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr___ak_" height="30" width="40" /></a>
 </p>
 

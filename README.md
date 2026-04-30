@@ -1,56 +1,83 @@
+<h1 align="center">Akash Ashok</h1>
+<h3 align="center">🚀 Full Stack Developer | Django • Angular • System Design</h3>
 
-<h1 align="center">Hi 👋, I'm Akash Ashok</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
-
-- 🔭 I’m currently working on [Startup Incubation And Freelance Management System](https://github.com/Aakash-Ashok/Startup-Incubation/tree/main)
-
-- 🌱 I’m currently learning **GIT**
-
-- 💬 Ask me about **PYTHON DJANGO ANGULAR CSS HTML BOOTSTRAP**
-
-- 📫 How to reach me **akashask2012@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/akash.ashok.2001?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akash ashok" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr___ak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr___ak_" height="30" width="40" /></a>
+<p align="center">
+Building scalable systems, not just projects.
 </p>
 
+---
 
+## 🧭 About Me
 
-<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="typescript">
-
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aakash-Ashok&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Ashok&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Ashok&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aakash-Ashok&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aakash-Ashok&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img id="meme" style="height:400px;" />
-
-<script>
-fetch("https://meme-api.com/gimme")
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById("meme").src = data.url;
-  });
-</script>
+- 🧠 MCA Student focused on **real-world system building**
+- ⚙️ Strong in **Backend Engineering (Django, REST APIs)**
+- 🌐 Building full-stack apps with **Angular + PostgreSQL**
+- 📈 Interested in **Scalable Architecture & Product Development**
+- 🚧 Currently leveling up in **Git & Production Workflows**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aakash-Ashok&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+### 🔥 Startup & Freelancer Incubation Management System
+👉 A real-world SaaS-style platform designed for managing startups & freelancers
+
+**Core Features:**
+- Role-based system (**Admin / Manager / User**)
+- Task tracking & workflow automation
+- Analytics dashboard for performance insights
+- REST API architecture (Django REST Framework)
+
+**Tech Stack:**
+`Django` • `PostgreSQL` • `Angular` • `REST APIs`
+
+📌 *Goal: Turn this into a production-ready platform*
+
+---
+
+## 🧠 Tech Focus
+
+**Backend Development**
+- Python • Django • Django REST Framework
+
+**Frontend Development**
+- Angular • HTML • CSS • Bootstrap
+
+**Database**
+- PostgreSQL • MySQL • SQLite
+
+**Tools & Workflow**
+- Postman • Swagger • Git (learning phase 🚧)
+
+---
+
+## ⚡ Engineering Mindset
+
+- I design **systems**, not just UI screens  
+- I focus on **clean architecture & scalability**  
+- I build with a **problem-solving approach**  
+- I aim for **production-level quality**, even in projects  
+
+---
+
+## 📊 GitHub Insights
+
+![](https://github-readme-stats.vercel.app/api?username=Aakash-Ashok&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Ashok&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a> •
+<a href="mailto:akashask2012@gmail.com">Email</a> •
+<a href="https://instagram.com/_mr___ak_" target="blank">Instagram</a>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> “Anyone can write code.  
+> Engineers build systems that scale.”

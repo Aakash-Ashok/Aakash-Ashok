@@ -40,7 +40,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aakash-Ashok&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img id="meme" style="height:400px;" />
+
+<script>
+fetch("https://meme-api.com/gimme")
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById("meme").src = data.url;
+  });
+</script>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aakash-Ashok&icon=0&color=0)](https://visitcount.itsvg.in)
